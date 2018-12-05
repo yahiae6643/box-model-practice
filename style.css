@@ -8,20 +8,27 @@
 
 #title {
     background: yellow;
-    /*add CSS here*/
-    
+    padding: 50px 200px;
+    margin: 30px 400px;
+
 }
 
 #subtitle {
     background: black;
     color: white;
-    /*add CSS here*/
-    
+    padding: 10px 200px;
+    margin: 30px 400px;
+
+
 }
 
 .topic {
     background: lightgray;
-    /*add CSS here*/
+    display: inline-block;
+    margin: 60px 130px;
     
-}
+    font-size: 20px;
+    padding:10px 15px;
 
+
+}
